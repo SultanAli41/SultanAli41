@@ -35,7 +35,8 @@
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sultan-ali)  
+- 💼 https://www.linkedin.com/in/sultan-ali-37243b293/
+ 
 
 ---
 
