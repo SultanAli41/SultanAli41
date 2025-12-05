@@ -18,7 +18,7 @@
 
 - ⚡ Passionate about building real-world scalable applications  
 
-- 💡 Exploring **new technologies** every day  
+- 💡 Exploring new technologies every day  
 
 
 
